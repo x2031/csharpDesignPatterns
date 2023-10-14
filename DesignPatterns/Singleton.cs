@@ -1,7 +1,7 @@
 ﻿namespace DesignPatterns
 {
     /// <summary>
-    /// 单例模式
+    /// 1.单例模式
     /// </summary>
     public class Singleton
     {
