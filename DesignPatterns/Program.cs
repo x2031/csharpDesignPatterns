@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Customer.CreateFood();
             Console.WriteLine("Hello, World!");
         }
     }
